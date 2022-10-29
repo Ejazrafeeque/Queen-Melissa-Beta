@@ -7,7 +7,7 @@ global.APIs = {
 }
 
 //Api Key\\
-global.APIKeys = {
+global.APIKeys = {bd504453-1e89-4460-b65a-e281041771be
     'https://zenzapis.xyz': 'a4060c904b',
 }
 
